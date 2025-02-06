@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Added new teams
 - Configured Agents
 - Service Level Agreements
-- Item 5
+- Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -68,6 +68,6 @@ Created Service Level Agreements (SLAs). Setting up how much time you have to do
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set up help topics for when users create a ticket, they can choose the category of the problem. Some of the example help topics I created were business critical outage, personal computer issues, equipment request, and password reset.
 </p>
 <br />
